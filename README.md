@@ -1,2 +1,2 @@
 # DataCompression-Classification-using-NN
-Data Compression in Classification on image dataset
+Data Compression with Classification on image dataset
